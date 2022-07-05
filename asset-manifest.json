@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WorkOutManager/static/css/main.692274c5.css",
+    "main.js": "/WorkOutManager/static/js/main.975dcea9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/WorkOutManager/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/WorkOutManager/index.html",
+    "main.692274c5.css.map": "/WorkOutManager/static/css/main.692274c5.css.map",
+    "main.975dcea9.js.map": "/WorkOutManager/static/js/main.975dcea9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/WorkOutManager/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692274c5.css",
+    "static/js/main.975dcea9.js"
+  ]
+}
