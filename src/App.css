@@ -11,7 +11,7 @@
   width: 70px;
 }
 
-.header > h1{
+.header > a > h1{
   margin-left: 40px;
   font-weight: bold;
   color: black;
@@ -96,5 +96,14 @@ li{
 }
 
 .grow{
-  margin-left: 40px;
+  margin-left: 40px; 
+}
+.grow > div{
+  display: flex;
+}
+.hh1{
+  margin-left: 100px;
+}
+.hh2{
+  margin-left:600px
 }

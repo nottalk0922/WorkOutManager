@@ -1,5 +1,6 @@
 import React from "react";
 import Chart from "./Chart"
+import Chart1 from "./chart1"
 
 export default function MainContent(){
 
@@ -20,8 +21,14 @@ export default function MainContent(){
                 </div>
             </div>
             <div className="grow">
-                    <h2>Your grass</h2>
+                <div className="hh">
+                    <h2 className="hh1">Your grass</h2>
+                    <h2 className="hh2">Your growing power</h2>
+                </div>
+                <div>
                     <Chart />
+                    <Chart1/>
+                </div>
             </div>
         </div>
     )
